@@ -1,4 +1,4 @@
-import { Pokemon } from "./Pokemon";
+import  Pokemon  from "./Pokemon";
 
 export const App =()=>{
   return <Pokemon/>;
